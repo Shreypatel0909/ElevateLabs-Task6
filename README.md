@@ -25,4 +25,7 @@ Iris Dataset (Scikit-learn)
 ## Repository Files
 - ElevateLabsTask6.ipynb
 - README.md
-- Screenshots
+- Screenshots/
+    ├── acc_vs_kvalues.png
+    ├── confusion_matrix.png
+    └── knn_DB.png
